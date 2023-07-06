@@ -1,0 +1,14 @@
+nohup: ignoring input
+Loading checkpoint: ./outputs/Data1/model_best.pth ...
+Checkpoint loaded
+0it [00:00, ?it/s]1it [00:04,  4.34s/it]4it [00:04,  1.18it/s]7it [00:04,  2.43it/s]10it [00:04,  3.90it/s]13it [00:04,  5.69it/s]16it [00:04,  7.72it/s]19it [00:06,  4.75it/s]21it [00:06,  5.35it/s]25it [00:06,  7.79it/s]27it [00:07,  4.27it/s]29it [00:07,  5.20it/s]30it [00:07,  3.76it/s]
+mode1
+torch.Size([955, 1, 256]) torch.Size([955, 30, 1, 256])
+bmm torch.Size([955, 1, 256]) torch.Size([955, 256, 955])
+-----Val Epoch: 0, dl: 0/0-----
+ R@1: 55.916230366492144 (window: 55.916230366492144)
+ R@5: 85.86387434554973 (window: 85.86387434554973)
+ R@10: 90.05235602094241 (window: 90.05235602094241)
+ MedR: 1.0 (window: 1.0)
+ MeanR: 9.643979057591624 (window: 9.643979057591624)
+ Loss: 0.35897543268899124

@@ -1,0 +1,11 @@
+# 忽略所有日志文件
+./logs/
+
+# 忽略所有临时文件和缓存文件
+.tmp/
+
+# 忽略data文件
+./data/
+
+# 忽略checkout文件
+./checkout/
