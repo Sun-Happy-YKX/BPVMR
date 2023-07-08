@@ -45,8 +45,8 @@ After downloading the corresponding dataset, please move the relevant files to t
 
 The file directory  structure is as follows:
 
-|—— checkout `<br>`
-|       |── Data1 `<br>`
+|-- checkout `<br>`
+|       |-- Data1 `<br>`
 |       |── Data2 `<br>`
 |—— config `<br>`
 |—— data `<br>`
