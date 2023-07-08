@@ -45,25 +45,25 @@ After downloading the corresponding dataset, please move the relevant files to t
 
 The file directory  structure is as follows:
 
-|—— checkout
-|       |── Data1
-|       |── Data2
-|—— config
-|—— data
-|       |── Music-Motion
-|       |── Music-Dance
-|—— datasets
-|—— models
-|—— modules
-|—— outputs
-|       |── Data1
-|       |── Data2
-|—— preprocess
-|—— trainer
-|—— order.sh
-|—— README.md
-|—— test_qb_norm.py
-|—— test.py
+|—— checkout `<br>`
+|       |── Data1 `<br>`
+|       |── Data2 `<br>`
+|—— config `<br>`
+|—— data `<br>`
+|       |── Music-Motion `<br>`
+|       |── Music-Dance `<br>`
+|—— datasets `<br>`
+|—— models `<br>`
+|—— modules `<br>`
+|—— outputs `<br>`
+|       |── Data1 `<br>`
+|       |── Data2 `<br>`
+|—— preprocess `<br>`
+|—— trainer `<br>`
+|—— order.sh `<br>`
+|—— README.md `<br>`
+|—— test_qb_norm.py `<br>`
+|—— test.py `<br>`
 
 ### Result
 
