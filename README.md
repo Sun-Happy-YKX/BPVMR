@@ -47,17 +47,17 @@ The file directory  structure is as follows:
 
 |-- checkout  
 |-------|-- Data1  
-|-------|── Data2  
+|-------|-- Data2  
 |-- config  
 |-- data  
-|-------|── Music-Motion
-|-------|── Music-Dance
+|-------|-- Music-Motion  
+|-------|-- Music-Dance  
 |-- datasets  
 |-- models  
 |-- modules  
-|-- outputs
-|-------|── Data1  
-|-------|── Data2  
+|-- outputs  
+|-------|-- Data1  
+|-------|-- Data2  
 |-- preprocess  
 |-- trainer  
 |-- order.sh  
